@@ -1,3 +1,12 @@
 Server-Client Messaging application.
 Base code to setup the sockets was borrowed from :
 https://www.geeksforgeeks.org/socket-programming-cc/
+
+
+c2.cpp > Client Side
+  - Compile as  : $ g++ -o c2 c2.cpp
+  - Run as      : $ ./c2
+
+s2.cpp > Server Side
+  - Compile as  : $ g++ -o s2 s2.cpp
+  - Run as      : $ ./s2  
