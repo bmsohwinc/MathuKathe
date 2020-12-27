@@ -1,3 +1,5 @@
+The simplest communication app.!!
+
 Server-Client Messaging application.
 Base code to setup the sockets was borrowed from :
 https://www.geeksforgeeks.org/socket-programming-cc/
